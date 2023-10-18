@@ -18,7 +18,7 @@ Package: node-is-path-inside
 Architecture: all
 Depends: ${misc:Depends}
  , node-path-is-inside
- , nodejs
+ , nodejs:any
 Description: Check if a path is inside another path
  When checked against same path given for both arguments it retruns false.
  .

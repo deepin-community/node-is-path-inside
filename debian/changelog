@@ -1,3 +1,10 @@
+node-is-path-inside (3.0.3-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + node-is-path-inside: Add :any qualifier for nodejs dependency.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 21 Nov 2022 11:53:18 +0000
+
 node-is-path-inside (3.0.3-1) unstable; urgency=medium
 
   * Team upload
